@@ -5,11 +5,8 @@
   nx.tally = function(inArray) {
     var result = {};
     nx.forEach(inArray, function(item) {
-      if (typeof result[item] === 'undefined') {
-        result[item] = 1;
-      } else {
-        result[item] += 1;
-      }
+      var value = result[item];
+      result[item] = typeof value === 'undefined' ? 1 : value + 1;
     });
     return result;
   };
