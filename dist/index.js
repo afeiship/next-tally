@@ -2,8 +2,8 @@
  * name: @jswork/next-tally
  * description: Which group and count elements of the collection.
  * homepage: https://github.com/afeiship/next-tally
- * version: 1.0.0
- * date: 2020-11-20 14:01:32
+ * version: 1.0.1
+ * date: 2020-11-20 14:03:50
  * license: MIT
  */
 
