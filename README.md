@@ -13,7 +13,7 @@ npm install -S @jswork/next-tally
 
 ## usage
 ```js
-import '@feizheng/next-tally';
+import '@jswork/next-tally';
 
 
 nx.tally([null, undefined, false, true, true, null, true, 1]);
