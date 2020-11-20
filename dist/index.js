@@ -1,15 +1,15 @@
 /*!
- * name: @feizheng/next-tally
+ * name: @jswork/next-tally
  * description: Which group and count elements of the collection.
  * homepage: https://github.com/afeiship/next-tally
  * version: 1.0.0
- * date: 2020-08-19T08:07:13.484Z
+ * date: 2020-11-20 14:00:48
  * license: MIT
  */
 
 (function () {
   var global = global || this || window || Function('return this')();
-  var nx = global.nx || require('next-js-core2');
+  var nx = global.nx || require('@jswork/next');
   var UNDEFINED = 'undefined';
 
   nx.tally = function (inArray) {

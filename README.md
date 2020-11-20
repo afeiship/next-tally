@@ -8,7 +8,7 @@
 
 ## installation
 ```bash
-npm install -S @feizheng/next-tally
+npm install -S @jswork/next-tally
 ```
 
 ## usage
@@ -23,17 +23,18 @@ nx.tally([null, undefined, false, true, true, null, true, 1]);
 ## resources
 - https://medium.com/@baweaver/ruby-2-7-enumerable-tally-a706a5fb11ea
 
+
 ## license
 Code released under [the MIT license](https://github.com/afeiship/next-tally/blob/master/LICENSE.txt).
 
-[version-image]: https://img.shields.io/npm/v/@feizheng/next-tally
-[version-url]: https://npmjs.org/package/@feizheng/next-tally
+[version-image]: https://img.shields.io/npm/v/@jswork/next-tally
+[version-url]: https://npmjs.org/package/@jswork/next-tally
 
-[license-image]: https://img.shields.io/npm/l/@feizheng/next-tally
+[license-image]: https://img.shields.io/npm/l/@jswork/next-tally
 [license-url]: https://github.com/afeiship/next-tally/blob/master/LICENSE.txt
 
-[size-image]: https://img.shields.io/bundlephobia/minzip/@feizheng/next-tally
+[size-image]: https://img.shields.io/bundlephobia/minzip/@jswork/next-tally
 [size-url]: https://github.com/afeiship/next-tally/blob/master/dist/next-tally.min.js
 
-[download-image]: https://img.shields.io/npm/dm/@feizheng/next-tally
-[download-url]: https://www.npmjs.com/package/@feizheng/next-tally
+[download-image]: https://img.shields.io/npm/dm/@jswork/next-tally
+[download-url]: https://www.npmjs.com/package/@jswork/next-tally
